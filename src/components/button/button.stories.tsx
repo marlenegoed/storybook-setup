@@ -41,7 +41,7 @@ export const Destructive: Story = {
 export const Dark: Story = {
   parameters: {
     themes: {
-      themesOverride: 'darl'
+      themesOverride: 'dark'
     }
   }
 }
